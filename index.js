@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     res.status(200).json({
         message: "Welcome to Rest-API-crud-reimagined",
         note: "This is the root of the API",
-        endpoints: "/api/courses"
+        single_endpoint: "/api/courses"
     })
 });
 /* *********************************************** */
