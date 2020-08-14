@@ -3,7 +3,6 @@
 //dotenv is optional
 
 //Import dependency modules
-/* *********************************************** */
 const express = require('express')
 const app = express()
 require('dotenv').config({ path: '.env' })
@@ -12,7 +11,6 @@ app.use(express.json())
 /* *********************************************** */
 
 //List of courses
-/* *********************************************** */
 const courses = [
     { id: 1, name: 'AWS Certified Solutions Architect - Associate 2020', price: 399 },
     { id: 2, name: 'Learn Ethical Hacking From Scratch', price: 299 },
@@ -23,14 +21,12 @@ const courses = [
 /* *********************************************** */
 
 //Root of the API
-/* *********************************************** */
 app.get('/', (req, res) => {
     res.send('Hello World')
 });
 /* *********************************************** */
 
 // 1.Read Operations
-/* *********************************************** */
 app.get('/api/courses', (req, res) => {
     res.send(courses)
 })
@@ -43,7 +39,6 @@ app.get('/api/courses/:id', (req, res) => {
 /* *********************************************** */
 
 // 2.Create Operation
-/* *********************************************** */
 app.post('/api/courses', (req, res) => {
     const course = {
         id: courses.length + 1,
@@ -55,7 +50,6 @@ app.post('/api/courses', (req, res) => {
 })
 /* *********************************************** */
 
-/* *********************************************** */
 // 3.Update Operation
 app.put('/api/courses/:id', (req, res) => {
     const course = courses.find(e => e.id === parseInt(req.params.id))
@@ -78,14 +72,13 @@ app.delete('/api/courses/:id', (req, res) => {
     courses.splice(index, 1)
     res.send(`'${course.name}' is deleted successfully`)
 })
+/* *********************************************** */
 
 //Port
-/* *********************************************** */
 const port = process.env.PORT || 5000
 /* *********************************************** */
 
 //Server spinup
-/* *********************************************** */
 app.listen(port, () => console.log(`Listening on port ${port}..`))
 /* *********************************************** */
 
