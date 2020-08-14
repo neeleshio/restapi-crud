@@ -1,3 +1,4 @@
+//Welcome to Rest-API-crud-reimagined
 //Basic REST API with CRUD operations in Single file
 //Only dependency required here is Express JS
 //dotenv is optional
@@ -22,7 +23,11 @@ const courses = [
 
 //Root of the API
 app.get('/', (req, res) => {
-    res.send('Hello World')
+    res.status(200).json({
+        message: "Welcome to Rest-API-crud-reimagined",
+        note: "This is the root of the API",
+        endpoints: "/api/courses"
+    })
 });
 /* *********************************************** */
 
