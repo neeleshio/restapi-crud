@@ -7,15 +7,20 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/dependencies-expressjs-success">
+  <img href="" src="https://img.shields.io/badge/API-documentation-orange">
   <img src="https://img.shields.io/badge/contributions-welcome-orange.svg">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
 
 <hr/>
 
-## How To Use
+## Installation
 
-To clone and run this node express server in your local machine, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+
+## Usage
+
+From your command line:
 
 ```bash
 # Clone this repository
@@ -30,6 +35,15 @@ $ npm install
 # Run the server
 $ npm start
 ```
+
+## Tools :
+
+Use <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge"> for handling all the HTTP requests.
+
+## API documentation :
+
+The detailed API documentation with requests and responses snapshots is available here <img href="" src="https://img.shields.io/badge/API-documentation-orange?style=for-the-badge" >
+
 ## Support
 
 <a href="https://www.buymeacoffee.com/neeleshio" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
