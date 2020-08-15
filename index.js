@@ -1,6 +1,6 @@
-//Welcome to Rest-API-crud-reimagined
+//Welcome to RestAPI-CRUD-Friendly
 //Basic REST API with CRUD operations in Single file
-//Only dependency required here is Express JS
+//Only dependency required here is ExpressJS
 //dotenv is optional
 
 //Import dependency modules
