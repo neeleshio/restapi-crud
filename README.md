@@ -42,7 +42,7 @@ Use <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge"> 
 
 ## API documentation :
 
-The detailed API documentation with requests and responses snapshots is available here <a href="https://documenter.getpostman.com/view/10182345/T1LPE7h2?version=latest"><img src="https://img.shields.io/badge/API-documentation-orange?style=for-the-badge" ></a>
+The detailed API documentation with requests and responses snapshots is available here <a href="https://documenter.getpostman.com/view/10182345/T1LPE7h2?version=latest"><img src="https://img.shields.io/badge/API-documentation-orange" ></a>
 
 ## Support
 
