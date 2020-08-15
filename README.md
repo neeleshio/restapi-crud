@@ -15,18 +15,18 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this node express server in your local machine, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/neeleshio/RestAPI-CRUD-Friendly.git
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd RestAPI-CRUD-Friendly
 
 # Install dependencies
 $ npm install
 
-# Run the app
+# Run the server
 $ npm start
 ```
