@@ -5,7 +5,8 @@
 
 <h4 align="center">A beginner friendly RESTFull API with CRUD operations.</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Dependencies](https://img.shields.io/badge/dependencies-expressjs-success)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<div align="center">
+  <img src="https://img.shields.io/badge/dependencies-expressjs-success">
+  <img src="https://img.shields.io/badge/contributions-welcome-orange.svg">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT">
+</div>
