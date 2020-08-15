@@ -38,7 +38,7 @@ $ npm start
 
 ## Tools :
 
-Use <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge"> for handling all the HTTP requests.
+Use <img src="https://img.shields.io/badge/POSTMAN-orange"> for handling all the HTTP requests.
 
 ## API documentation :
 
