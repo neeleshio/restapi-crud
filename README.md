@@ -25,7 +25,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/neeleshio/RestAPI-CRUD-Friendly.git
+$ git clone https://github.com/neeleshio/RestAPI-CRUD.git
 
 # Go into the repository
 $ cd RestAPI-CRUD-Friendly
