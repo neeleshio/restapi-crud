@@ -47,7 +47,7 @@ The detailed API documentation with requests and responses snapshots is availabl
 
 ## Become a Contributor :
 
-1. Clone the repo and create a new branch: $ git checkout https://github.com/neeleshio/RestAPI-CRUD-Friendly.git -b name_for_new_branch.
+1. Clone the repo and create a new branch: $ git checkout https://github.com/neeleshio/RestAPI-CRUD.git
 
 2. Make changes and test.
 
