@@ -28,7 +28,7 @@ From your command line:
 $ git clone https://github.com/neeleshio/RestAPI-CRUD.git
 
 # Go into the repository
-$ cd RestAPI-CRUD-Friendly
+$ cd RestAPI-CRUD
 
 # Install dependencies
 $ npm install
